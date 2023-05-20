@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "persons.management", "persons.management\persons.management.csproj", "{B899FB93-CC8A-4C35-AD64-CB4FDC547036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "persons.management.contracts", "persons.management.contracts\persons.management.contracts.csproj", "{36FA62AC-53E2-4AF7-83B9-A1DC4FC449A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B899FB93-CC8A-4C35-AD64-CB4FDC547036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B899FB93-CC8A-4C35-AD64-CB4FDC547036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B899FB93-CC8A-4C35-AD64-CB4FDC547036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B899FB93-CC8A-4C35-AD64-CB4FDC547036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36FA62AC-53E2-4AF7-83B9-A1DC4FC449A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36FA62AC-53E2-4AF7-83B9-A1DC4FC449A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36FA62AC-53E2-4AF7-83B9-A1DC4FC449A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36FA62AC-53E2-4AF7-83B9-A1DC4FC449A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
